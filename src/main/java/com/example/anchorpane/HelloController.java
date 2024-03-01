@@ -5,8 +5,7 @@ import javafx.scene.control.CheckBox;
 import javafx.scene.control.Label;
 
 public class HelloController {
-    @FXML
-    private Label welcomeText;
+
     @FXML
     private CheckBox confirmacion;
 
